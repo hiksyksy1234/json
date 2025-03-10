@@ -1,11 +1,10 @@
 {
-  source: {
-    id: null,
-    name: "동아"
+  "source": {
+    "id": null,
+    "name": "동아"
   },
-  author: null,
-  title: "3개의 물 분자 삼각형, '양성자 터널링 가속화'",
-  description: "사이언스 투데이",
-  urlToImage:
-    "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202503101612578250"
+  "author": null,
+  "title": "3개의 물 분자 삼각형, '양성자 터널링 가속화'",
+  "description": "사이언스 투데이",
+  "urlToImage": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202503101612578250"
 }
