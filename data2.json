@@ -1,0 +1,62 @@
+[
+  {
+    "source": {
+      "id": "OK",
+      "name": "weather"
+    },
+    "author": null,
+    "title": "6월 초 무더위 시작...전국 낮 기온 25도 안팎",
+    "description": "날씨",
+    "url": "https://example.com/weather/20260606",
+    "thumb": "https://example.com/images/weather.jpg",
+    "content": "6월 들어 전국 대부분 지역의 낮 기온이 25도를 넘어서며 초여름 날씨가 이어지고 있습니다."
+  },
+  {
+    "source": {
+      "id": "OK",
+      "name": "health"
+    },
+    "author": null,
+    "title": "과학자들, 불안 증상 조절하는 뇌 신경회로 발견",
+    "description": "건강",
+    "url": "https://example.com/health/20260606",
+    "thumb": "https://example.com/images/health.jpg",
+    "content": "연구진은 편도체의 특정 신경세포 집단이 불안과 사회적 행동에 중요한 역할을 한다는 사실을 확인했습니다."
+  },
+  {
+    "source": {
+      "id": "OK",
+      "name": "health"
+    },
+    "author": null,
+    "title": "공감 능력의 비밀, 뇌 신경회로 연구로 밝혀져",
+    "description": "건강",
+    "url": "https://example.com/health/20260606-2",
+    "thumb": "https://example.com/images/empathy.jpg",
+    "content": "연구진은 타인의 감정을 이해하고 공감하는 과정에 특정 뇌 신경회로가 관여한다는 연구 결과를 발표했습니다."
+  },
+  {
+    "source": {
+      "id": "OK",
+      "name": "science"
+    },
+    "author": null,
+    "title": "앤트로픽, AI 개발 속도 조절 촉구...인류 통제력 우려",
+    "description": "과학",
+    "url": "https://example.com/science/20260606",
+    "thumb": "https://example.com/images/ai.jpg",
+    "content": "클로드 개발사 앤트로픽은 AI가 스스로 성능을 개선하는 단계에 접근하고 있다며 글로벌 차원의 개발 속도 조절 필요성을 제기했습니다."
+  },
+  {
+    "source": {
+      "id": "OK",
+      "name": "entertainment"
+    },
+    "author": null,
+    "title": "유재석, 논현동 상가 신축 공사 본격화",
+    "description": "연예",
+    "url": "https://example.com/entertainment/20260606",
+    "thumb": "https://example.com/images/yjs.jpg",
+    "content": "방송인 유재석이 보유한 서울 강남구 논현동 부지에 상가 건물 신축 공사가 진행 중인 것으로 알려졌습니다."
+  }
+]
