@@ -69,5 +69,30 @@
   "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202406131629182899",
 "thumb": "https://imgscience.ytn.co.kr/sciencetv/jpg/vod0082/2024/202406131629182899_h.jpg",
 "content": "한국지질자원연구원이 카자흐스탄 동부 지역 리튬 광산의 독점 탐사 기관으로 선정됐습니다."
+},
+{
+  "source": {
+    "id": "OK",
+    "name": "sports"
+  },
+  "author": null,
+  "title": "태백산 높이에서 치르는 월드컵, 몸은 어떻게 반응할까?",
+  "description": "sports",
+  "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202606101104027886",
+"thumb": "https://imgscience.ytn.co.kr/sciencetv/jpg/vod0082/2026/202606101104027886_h.jpg",
+"content": "우리나라 축구 대표팀은 해발 1571m에 위치한 멕시코 과달라하 스타디움에서 월드컵 조별리그 1, 2차전을 치릅니다."
+},
+{
+  "source": {
+    "id": "OK",
+    "name": "technology"
+  },
+  "author": null,
+  "title": "적은 데이터로 정밀한 동작 수행하는 AI 로봇 개발",
+  "description": "technology",
+  "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202606241101194456",
+"thumb": "https://imgscience.ytn.co.kr/sciencetv/jpg/vod0082/2026/202606241101194456_h.jpg",
+"content": "한국과학기술원, KAIST 연구팀이 적은 동작 데이터만 가지고 로봇이 스스로 작업 정밀도를 높여 고난도 작업을 수행하는 AI 모델 '디스포'를 개발했습니다."
+
 }
 ]
